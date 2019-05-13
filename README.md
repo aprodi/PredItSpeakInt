@@ -8,19 +8,17 @@ The ASR is based on the [Kaldi Speech Recognition Toolkit](http://kaldi-asr.org/
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Anything involved in 1) the planning and collection of the clean speech corpus; 2) audio manipulation; 3) mixing with established noise maskers; 4) data preparation as input training material for Kaldi.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In particular, the planning and collection of the speech corpus are performed by two standalone python gui applications, while 
-  2)-4) are based on various python scripts.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In particular, the planning and collection of the speech corpus are performed by two standalone python gui applications, while 2)-4) are based on various python scripts.
   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The training data used in the experiments has the same structure and vocabulary as the matrix sentences
-  used for testing
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The training data used in the experiments has the same structure and vocabulary as the matrix sentences used for testing
 
 2. ***kaldi-fork***
 
-  Fork of the Kaldi toolkit with custom designed feature extractors, such as the AMFB filterbanks [1]. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fork of the Kaldi toolkit with custom designed feature extractors, such as the AMFB filterbanks [1]. 
 
 3. ***kaldi-gpu-docker***
 
-  Build kaldi inside docker containers with option for CUDA support
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Build kaldi inside docker containers with option for CUDA support
 
 This project is part of an ongoing collaboration between the ISOF-CNR Institute (I), the University of Ferrara (I) and the University of Bologna (I).
 
