@@ -4,7 +4,7 @@ The PredItSpeechInt (Predicting Italian Speech Intelligibility) project aims at 
 
 The ASR is based on the [Kaldi Speech Recognition Toolkit](http://kaldi-asr.org/) and it is trained by a 
 
-1. * **HabeasCorpus** *
+1. ***HabeasCorpus***
 Closed Speech Corpora  , planning and speech acquisition.
 
 2. * **Kaldi fork** *
