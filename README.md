@@ -5,7 +5,6 @@ The PredItSpeechInt (Predicting Italian Speech Intelligibility) project aims at 
 The ASR is based on the [Kaldi Speech Recognition Toolkit](http://kaldi-asr.org/) and it is trained by audio data obtained by mixing a clean speech corpus collected on purpose with noise maskers with different types of spectro-temporal characteristics, employed to account for different aspects of masking such as energetic masking, amplitude modulation masking and informational masking.
 
 1. ***HabeasCorpus***
-
   Anything involved in 1) the planning and collection of the clean speech corpus; 2) audio manipulation; 3) mixing with established noise maskers; 4) data preparation as input training material for Kaldi.
 
   In particular, the planning and collection of the speech corpus are performed by two standalone python gui applications, while 
