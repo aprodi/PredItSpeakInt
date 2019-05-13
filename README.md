@@ -8,7 +8,7 @@ The ASR is based on the [Kaldi Speech Recognition Toolkit](http://kaldi-asr.org/
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Anything involved in 1) the planning and collection of the clean speech corpus; 2) audio manipulation; 3) mixing with established noise maskers; 4) data preparation as input training material for Kaldi.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In particular, the planning and collection of the speech corpus are performed by two standalone python gui applications, while 2)-4) are based on various python scripts. The actual recording is performed by the external command line application [Sox](http://sox.sourceforge.net/) and it will work with any sound interface or microphone recognized by Sox. The training data used in the experiments has the same structure and vocabulary as the matrix sentences used for testing.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In particular, the planning and collection of the speech corpus are performed by two standalone python gui applications, while 2)-4) are based on various python scripts. The actual recording is performed by the external command line application [SoX](http://sox.sourceforge.net/) and it will work with any sound interface or microphone recognized by SoX. The training data used in the experiments has the same structure and vocabulary as the matrix sentences used for testing.
 
 2. ***kaldi-fork***
 
