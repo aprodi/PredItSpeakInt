@@ -6,7 +6,7 @@
 *Kaldi fork*
 
 
-This project is part of an ongoing collaboration between the Isof-CNR Institute, the University of Ferrara and the University of Bologna.
+This project is part of an ongoing collaboration between the ISOF-CNR Institute (I), the University of Ferrara (I) and the University of Bologna (I).
 
 References:
 
