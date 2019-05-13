@@ -1,14 +1,15 @@
 # PredItSpeakInt
 
+The PredItSpeechInt (Predicting Italian Speech Intelligibility) project aims at developing an Automatic Speech Recognition (ASR) system, based on the Kaldi Speech Recognition Toolkit, designed to work as a predictor of speech intelligibility in the presence of noise in the context of Matrix Sentence Tests With Closed Speech Corpora [1]. PredItSpeakInt is focused on the Italian language and its predicting capabilities are being tested with previously performed Italian language matrix sentence human listening tests [2].
 
-*HabeasCorpus*
+1. * **HabeasCorpus** *
 
-*Kaldi fork*
+2. * **Kaldi fork** *
 
 
 This project is part of an ongoing collaboration between the ISOF-CNR Institute (I), the University of Ferrara (I) and the University of Bologna (I).
 
-References:
+**References:**
 
 [1] C. Spille et al., "Predicting speech intelligibility with deep neural networks", Computer Speech & Language 48 (2018) 51-66
 
